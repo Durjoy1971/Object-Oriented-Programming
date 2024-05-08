@@ -43,11 +43,15 @@ int main()
 
 /*
 
-* A class is a blueprint for the object. We can think of a class as a sketch (prototype) of a house. It contains all the details about the floors, doors, windows, etc - we build the house based on these descriptions. The house is the object.
+* A class is a blueprint for the object.
+
+* We can think of a class as a sketch (prototype) of a house. It contains all the details about the floors, doors, windows, etc - we build the house based on these descriptions. The house is the object.
 
 * A class is defined in C++ using the keyword class followed by the name of the class.
 
-* When a class is defined, only the specification for the object is defined; no memory or storage is allocated. To use the data and access functions defined in the class, we need to create objects.
+* When a class is defined, only the specification for the object is defined; no memory or storage is allocated.
+
+* To use the data and access functions defined in the class, we need to create objects.
 
 * We can access the data members and member functions of a class by using a . (dot) operator.
 
