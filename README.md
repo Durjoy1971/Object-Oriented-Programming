@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) in C++
+# Object-Oriented Programming (OOP)
 
 This repository covers various topics related to Object-Oriented Programming (OOP) in C++, Java and Python. Each topic is explained with code examples and explanations to help you understand the concepts better.
 
