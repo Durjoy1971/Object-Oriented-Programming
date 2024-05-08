@@ -1,0 +1,6 @@
+# Compiled object files
+*.bin
+*.cph
+# Executables
+*.exe
+*.out
