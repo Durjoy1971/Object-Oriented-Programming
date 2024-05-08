@@ -1,8 +1,8 @@
 # Object-Oriented Programming (OOP) in C++
 
-This repository covers various topics related to Object-Oriented Programming (OOP) in C++. Each topic is explained with code examples and explanations to help you understand the concepts better.
+This repository covers various topics related to Object-Oriented Programming (OOP) in C++.
 
-## Topics Covered
+## Topics Covered in C++
 
 1. C++ Classes and Objects
 2. C++ Constructors
@@ -17,10 +17,6 @@ This repository covers various topics related to Object-Oriented Programming (OO
 11. C++ Function Overriding
 12. C++ Virtual Functions
 13. C++ Abstract Class and Pure Virtual Function
-
-## Getting Started
-
-To get started with any topic, simply navigate to the corresponding file and open the source code file.
 
 ## Contributing
 
