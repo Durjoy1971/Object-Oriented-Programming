@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-// Private and Public Specifier Example:
+//> Private and Public Specifier Example:
+
 class User
 {
 private:
@@ -49,7 +50,8 @@ public:
     }
 };
 
-// Protected Specifier Example
+//> Protected Specifier Example
+
 class Student
 {
 protected:
