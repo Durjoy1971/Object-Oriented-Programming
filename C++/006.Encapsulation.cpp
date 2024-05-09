@@ -56,7 +56,7 @@ int main()
 
 ! Bundling similar data members and functions inside a class together also helps in data hiding.
 
-* In general, encapsulation is a process of wrapping similar code in one place.
+> In general, encapsulation is a process of wrapping similar code in one place.
 
 * In C++, encapsulation helps us keep related data and functions together, which makes our code cleaner and easy to read.
 
