@@ -35,8 +35,8 @@ int main()
     B1.length = 50;
 
     // calculate and display the area of Room A1 and volume of room B1
-    cout << "Area of Room A1 : " << A1.calculate_area() << endl;
-    cout << "Volume of Room B1 : " << B1.calculate_volume() << endl;
+    cout << "Area of Room A1 : " << A1.calculate_area() << " " << A1.calculate_volume() << endl;
+    cout << "Volume of Room B1 : " << B1.calculate_area() << " " << B1.calculate_volume() << endl;
 
     return 0;
 }

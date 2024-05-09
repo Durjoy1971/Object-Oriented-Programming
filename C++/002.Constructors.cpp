@@ -10,6 +10,7 @@ private:
 
 public:
     // Wall() = default;
+    // Wall(){};
     void print_length()
     {
         cout << "Length = " << length << endl;
