@@ -18,10 +18,6 @@ This repository covers various topics related to Object-Oriented Programming (OO
 12. C++ Virtual Functions
 13. C++ Abstract Class and Pure Virtual Function
 
-## Topics Covered in JAVA
-
-1. C++ Classes and Objects
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
