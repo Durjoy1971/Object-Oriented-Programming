@@ -24,7 +24,7 @@ In addition to JRE, JDK also contains a number of development tools (compilers, 
 
 ![image](https://github.com/Durjoy1971/Object-Oriented-Programming/assets/91456847/f6192be0-bd62-484d-a84f-b3a91c0de58f)
 
-Relationship between JVM, JRE, and JDK.
+## Relationship between JVM, JRE, and JDK.
 
 ![image](https://github.com/Durjoy1971/Object-Oriented-Programming/assets/91456847/b16db708-4cef-4572-85d1-8b70534d9d21)
 
