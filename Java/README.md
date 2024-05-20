@@ -28,6 +28,9 @@ In addition to JRE, JDK also contains a number of development tools (compilers, 
 
 ![image](https://github.com/Durjoy1971/Object-Oriented-Programming/assets/91456847/b16db708-4cef-4572-85d1-8b70534d9d21)
 
+## Access Modifiers Summarized in one figure
+
+![image](https://github.com/Durjoy1971/Object-Oriented-Programming/assets/91456847/1f31a639-e86e-4c05-8e71-73c723430cb2)
 
 # Object-Oriented Programming (OOP) in JAVA
 
