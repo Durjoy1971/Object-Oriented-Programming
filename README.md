@@ -31,6 +31,13 @@ This repository covers various topics related to Object-Oriented Programming (OO
 9.  Java final Keyword
 10. Java Recursion
 11. Java instaceof Operator
+12. Java Inheritance
+13. Java Method Overriding
+14. Java super
+15. Java Abstract Class and Abstract Methods
+16. Java Interface
+17. Java Polymorphism
+18. Java Encapsulation
 
 ## Getting Started
 
