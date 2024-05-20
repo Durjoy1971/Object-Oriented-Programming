@@ -4,15 +4,15 @@ This repository covers various topics related to Object-Oriented Programming (OO
 
 ## Topics Covered in C++
 
-1. C++ Classes and Objects
-2. C++ Constructors
-3. C++ Constructor Overloading
-4. C++ Destructors
-5. C++ Access Modifiers
-6. C++ Encapsulation
-7. C++ friend Function and friend Classes
-8. C++ Inheritance
-9. C++ Public, Protected and Private Inheritance
+1.  C++ Classes and Objects
+2.  C++ Constructors
+3.  C++ Constructor Overloading
+4.  C++ Destructors
+5.  C++ Access Modifiers
+6.  C++ Encapsulation
+7.  C++ friend Function and friend Classes
+8.  C++ Inheritance
+9.  C++ Public, Protected and Private Inheritance
 10. C++ Multiple, Multilevel and Hierarchical Inheritance
 11. C++ Function Overriding
 12. C++ Virtual Functions
@@ -20,7 +20,17 @@ This repository covers various topics related to Object-Oriented Programming (OO
 
 ## Topics Covered in JAVA
 
-1. JAVA Classes and Objects
+1.  Java Classes and Objects
+2.  Java Methods
+3.  Java Method Overloading
+4.  Java Constructors
+5.  Java Static Keyword
+6.  Java Strings
+7.  Java Access Modifiers
+8.  Java this Keyword
+9.  Java final Keyword
+10. Java Recursion
+11. Java instaceof Operator
 
 ## Getting Started
 
